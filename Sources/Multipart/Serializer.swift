@@ -1,3 +1,4 @@
+import Bits
 import Core
 
 private let crlf: Bytes = [.carriageReturn, .newLine]

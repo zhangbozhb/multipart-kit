@@ -1,7 +1,8 @@
-import Foundation
-import XCTest
-@testable import Multipart
+import Bits
 import Core
+import Foundation
+@testable import Multipart
+import XCTest
 
 class SerializerTests: XCTestCase {
     static var allTests = [
